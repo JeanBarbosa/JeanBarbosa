@@ -6,7 +6,7 @@
   <img align="right" alt="Website - Jean Barbosa" src="https://img.shields.io/badge/-Website-222?style=flat-square&link=https://JeanBarbosa.com">
 </a>
 
-<a href="https://www.linkedin.com/in/JeanBarbosa/" target="_blank" >
+<a href="https://www.linkedin.com/in/jean-barbosa/" target="_blank" >
   <img align="right" alt="Linkedin - Jean Barbosa" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JeanBarbosa&longCache=true"">
 </a>
 
