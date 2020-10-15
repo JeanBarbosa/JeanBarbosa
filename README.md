@@ -23,6 +23,15 @@ Hi there 👋
 <blockquote align="center">“You are never too old to set another goal or to dream a new dream.”!</blockquote>
 
 
+#### My contributions
+<a href="https://github.com/JeanBarbosa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeanBarbosa&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/JeanBarbosa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBarbosa&theme=dracula" />
+</a>
+
+
 <!--
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
