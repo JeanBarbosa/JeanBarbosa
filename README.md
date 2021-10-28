@@ -41,7 +41,7 @@ Hi there 👋
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeanBarbosa&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a align="right" href="https://github.com/JeanBarbosa/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBarbosa&theme=dracula" />
+  <img min-width="400px" max-width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBarbosa&theme=dracula" />
 </a>
 </p>
 
