@@ -36,7 +36,7 @@ Hi there 👋
 
 
 #### My contributions
-<p>
+<p align="left">
 <a align="left" href="https://github.com/JeanBarbosa/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeanBarbosa&count_private=true&show_icons=true&theme=dracula" />
 </a>
