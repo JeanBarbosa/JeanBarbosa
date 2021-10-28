@@ -36,10 +36,10 @@ Hi there 👋
 
 
 #### My contributions
-<a href="https://github.com/JeanBarbosa/github-readme-stats">
+<a align="left" href="https://github.com/JeanBarbosa/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeanBarbosa&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/JeanBarbosa/github-readme-stats">
+<a align="right" href="https://github.com/JeanBarbosa/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBarbosa&theme=dracula" />
 </a>
 
